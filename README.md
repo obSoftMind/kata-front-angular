@@ -6,7 +6,7 @@ https://github.com/obSoftMind/kata-front-angular/tree/master/src/app/services
 
 Au final, j'ai utilsé NgRx, donc le service en question n'est pas utilisé dans l'application. 
 
-Pour les test : j'ai juste lancé ng test est corrigé les tests qui ne passe pas
+Pour les tests : j'ai juste lancé ng test et corrigé les tests qui ne passe pas
 
 # WebApp
 
