@@ -1,8 +1,11 @@
 # kata-front-angular
 Test Technique (Effy)
  
-Important : Au début, j'ai opté pour un store géré par un BehaviorSubject. j'ai laissé le service :
-https://github.com/obSoftMind/kata-front-angular/tree/master/src/app/services
+Important : 
+Au début, j'ai opté pour un store géré par un BehaviorSubject. 
+
+Voici le lien du service :
+https://github.com/obSoftMind/kata-front-angular/tree/master/src/app/services.
 
 Au final, j'ai utilsé NgRx, donc le service en question n'est pas utilisé dans l'application. 
 
